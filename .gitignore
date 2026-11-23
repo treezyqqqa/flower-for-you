@@ -1,0 +1,13 @@
+# Local editor and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local settings and credentials
+.agents/
+.aws/
+.codex/
+.env
+.env.*
